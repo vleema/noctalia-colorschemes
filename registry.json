@@ -430,6 +430,46 @@
       }
     },
     {
+      "name": "NaySayer",
+      "path": "NaySayer",
+      "dark": {
+        "mPrimary": "#2ec09c",
+        "mOnPrimary": "#062329",
+        "mSecondary": "#8cde94",
+        "mOnSecondary": "#062329",
+        "mTertiary": "#7ad0c6",
+        "mOnTertiary": "#d1b897",
+        "mError": "#ff0000",
+        "mOnError": "#062329",
+        "mSurface": "#062329",
+        "mOnSurface": "#d1b897",
+        "mSurfaceVariant": "#0b3335",
+        "mOnSurfaceVariant": "#c1d1e3",
+        "mOutline": "#126367",
+        "mShadow": "#062329",
+        "mHover": "#0b3335",
+        "mOnHover": "#d1b897"
+      },
+      "light": {
+        "mPrimary": "#2ec09c",
+        "mOnPrimary": "#ffffff",
+        "mSecondary": "#8cde94",
+        "mOnSecondary": "#062329",
+        "mTertiary": "#7ad0c6",
+        "mOnTertiary": "#062329",
+        "mError": "#F92672",
+        "mOnError": "#ffffff",
+        "mSurface": "#ffffff",
+        "mOnSurface": "#062329",
+        "mSurfaceVariant": "#f0f0f0",
+        "mOnSurfaceVariant": "#126367",
+        "mOutline": "#c1d1e3",
+        "mShadow": "#e0e0e0",
+        "mHover": "#e8f4f5",
+        "mOnHover": "#062329"
+      }
+    },
+    {
       "name": "Noctalia legacy",
       "path": "Noctalia legacy",
       "dark": {
